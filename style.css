@@ -67,6 +67,14 @@ p {
     font-family: "Lexend Deca", sans-serif;
 }
 
+.btn:hover {
+    background-color: transparent;
+    color: white;
+    border: white 2px solid;
+    transform: scale(0.96);
+    margin: 39px;
+}
+
 .btn-sedan {
     color: hsl(31, 77%, 52%);
 }
